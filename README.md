@@ -16,7 +16,16 @@ Projeto desenvolvido seguindo o curso de Angular da Proway disponibilizado por m
 
 ## Comandos úteis
 
-Para rodar o projeto na sua máquina, no terminal, dentro da pasta do projeto, execute o script **npm start**. 
-Muito provalvemente a porta utilizada do localhost será a 4200.
+
+Para rodar o projeto na sua máquina, no terminal, dentro da pasta do projeto, execute:
+
+```
+npm start
+```
+Acesse pelo seu navegador o endereço abaixo:
+
+```
+http://localhost:4200/
+```
 
 
