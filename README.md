@@ -1,27 +1,22 @@
-# FundamentosAngular
+# Fundamentos com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+Projeto desenvolvido seguindo o curso de Angular da Proway disponibilizado por meio do Start by Capgemini (uma iniciativa da Capgemini para iniciantes terem uma oportunidade de ingressar na área).
 
-## Development server
+## Assuntos abordados
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. Criação de componentes
+2. Funcionamento dos Templates no Angular
+3. Pipes
+4. Two-Way Data Binding
+5. Renderizando listas
+6. Componentes personalizados (input)
+7. Compartilhamento de dados entre componentes
+8. Services
+9. Ciclo de vida de um componente
 
-## Code scaffolding
+## Comandos úteis
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Para rodar o projeto na sua máquina, no terminal, dentro da pasta do projeto, execute o script **npm start**. 
+Muito provalvemente a porta utilizada do localhost será a 4200.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
